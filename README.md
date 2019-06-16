@@ -27,7 +27,7 @@
 
 #### Résumé
 
-You can see [PDF](https://github.com/musamaanjum/Awesome-Resume/blob/CVtoResume/resume.pdf)
+You can see [PDF](https://github.com/musamaanjum/Awesome-Resume/blob/master/resume.pdf)
 
 
 ## How to Use
